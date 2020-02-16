@@ -1,0 +1,27 @@
+body, html{
+    height: 100%;
+}
+footer a{
+    margin: 5px 15px;
+}
+.caixa{
+    padding: 60px 0;
+    border: 1px solid #e5e5e5;
+}
+/*.caixa1{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(../img/truck.jpg);
+    height: 100%;
+}*/
+.apresentacao{
+
+    background-color: white;
+}
+
+#Home{
+    
+	color: white;
+}
